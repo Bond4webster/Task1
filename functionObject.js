@@ -8,4 +8,4 @@ function openProperty(obj) {
         }
     }
 }
-openProperty({a:10});
+openProperty({a:{b:'asd'}});
